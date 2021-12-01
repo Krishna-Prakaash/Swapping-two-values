@@ -28,7 +28,7 @@ print("Swapped values are:",a,b)
 ~~~
 
 ## OUTPUT
-![Screenshot (30)](https://user-images.githubusercontent.com/93427144/143775042-9d28886e-902c-4c83-ba0a-ea98b701b221.png)
+![Output 1](SSR2.png)
 
 
 
